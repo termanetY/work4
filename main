@@ -1,0 +1,3 @@
+alphabet = ['c', 'a', 'b', 'e', 'd', 'g', 'f']
+alphabet.sort()
+print(alphabet)
